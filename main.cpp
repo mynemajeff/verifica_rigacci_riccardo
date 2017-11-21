@@ -8,3 +8,4 @@ void int main(){
 	}
 	system(0);
 }
+//fine
