@@ -1,0 +1,1 @@
+# verifica_rigacci_riccardo
